@@ -93,16 +93,54 @@ public class ManojKumar {
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Skill Mastery
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojboggavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manojboggavarapu&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff"/>
+| Core Skill | Level | Mastery |
+|:---:|:---:|:---:|
+| ☕ Java | `████████████████████` | Expert |
+| 🌿 Spring Boot | `████████████████████` | Expert |
+| 🔐 Spring Security | `██████████████████░░` | Advanced |
+| 🏗️ Microservices | `████████████████░░░░` | Advanced |
+| ⚛️ React.js | `█████████████░░░░░░░` | Proficient |
+| 🟢 Node.js | `████████████░░░░░░░░` | Proficient |
+| 🍃 MongoDB | `██████████████░░░░░░` | Proficient |
+| 🐬 MySQL / PostgreSQL | `████████████████░░░░` | Advanced |
 
-<br/><br/>
+</div>
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojboggavarapu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
+---
+
+## 🚀 Journey So Far
+
+```text
+2020  ──▶  Started with Core Java & OOP fundamentals
+            └─ Fell in love with backend development ☕
+
+2021  ──▶  Dived deep into Spring Framework & Spring Boot
+            └─ Built first REST APIs & learned Hibernate/JPA
+
+2022  ──▶  Mastered Spring Security · JWT · OAuth 2.0
+            └─ Started exploring React.js & MERN stack ⚛️
+
+2023  ──▶  Built full-stack production apps
+            └─ Microservices · Docker · MySQL · MongoDB
+
+2024  ──▶  Leveling up ── AWS · Kubernetes · System Design
+            └─ Open to collabs · freelance · SDE roles 🎯
+
+NOW   ──▶  Shipping clean code every single day 🚀
+```
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojboggavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manojboggavarapu&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/>
 
 <br/><br/>
 
@@ -112,19 +150,18 @@ public class ManojKumar {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 What I'm Building
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manojboggavarapu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/manojboggavarapu/manojboggavarapu/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+```java
+// Current Focus Areas — 2024
+Map<String, String> currentWork = new HashMap<>();
+currentWork.put("🏗️ Architecture",  "Microservices with Spring Boot + Docker");
+currentWork.put("🔐 Security",       "JWT Auth + Spring Security 6.x");
+currentWork.put("⚛️ Frontend",       "React 18 + TailwindCSS projects");
+currentWork.put("☁️ Cloud",          "AWS EC2 · S3 · RDS deployments");
+currentWork.put("📚 Learning",       "Kubernetes · System Design · DSA");
+currentWork.put("🤝 Open To",        "Freelance · Collaboration · SDE Roles");
+```
 
 ---
 
